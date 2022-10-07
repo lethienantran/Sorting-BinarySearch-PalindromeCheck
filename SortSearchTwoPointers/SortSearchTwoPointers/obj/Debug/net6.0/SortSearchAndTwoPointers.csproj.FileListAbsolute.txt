@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortSearchAndTwoPointers.exe
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortSearchAndTwoPointers.deps.json
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortSearchAndTwoPointers.runtimeconfig.json
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortSearchAndTwoPointers.dll
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortSearchAndTwoPointers.pdb
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.dll
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\refint\SortSearchAndTwoPointers.dll
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.pdb
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortSearchAndTwoPointers.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\ref\SortSearchAndTwoPointers.dll

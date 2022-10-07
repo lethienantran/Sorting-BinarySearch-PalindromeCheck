@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortingAndSearching.exe
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortingAndSearching.deps.json
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortingAndSearching.runtimeconfig.json
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortingAndSearching.dll
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\bin\Debug\net6.0\SortingAndSearching.pdb
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.dll
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\refint\SortingAndSearching.dll
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.pdb
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\SortingAndSearching.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\CSharpDevelopment\SortingSearching\SortingAndSearching\obj\Debug\net6.0\ref\SortingAndSearching.dll
