@@ -28,6 +28,7 @@ I have learned tons of things new when doing this. I was quite new to the algori
 <li> Multiple sorting algorithm and its complexity (bubble sort, selection sort, insertion sort, merge sort and quick sort). But in this case, simple sort as selection sort is more useful. </li>
 <li> Two pointers technique across the arrays </li>
 <li> Binary Search Algorithm. </li>
+</ol>
 </p>
 <h3> 4. Tools </h3> 
 <p>
@@ -46,19 +47,17 @@ I have learned tons of things new when doing this. I was quite new to the algori
 <img src ="images/ascendingSort.PNG" width="250" height="150">
 <img src="images/descendingSort.PNG" width="250" height="150">
 <br>
- &nbsp &nbsp &nbsp Menu &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Ascending Sort   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Descending Sort </li>
+</li>
 <li> Word Sorting: 
 <br>
 <img src="images/wordsSortMenu.PNG" width="300" height = "150">
 <img src ="images/Ascendingwordsort.PNG" width="250" height="150">
 <img src="images/wordsSortDescending.PNG" width="250" height="150">
 <br>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Menu &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Ascending Sort   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Descending Sort </li>
+</li>
 <li> Guessing Game: 
 <br>
 <img src="images/searchGameMenu.PNG" width="300" height = "150">
 <img src ="images/NumberFound.PNG" width="300" height="150">
-<img src="images/NotFoundSearch.PNG" width="300" height="150">
-<br>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Menu &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Number Found   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Number Not Found </li>
+<img src="images/NotFoundSearch.PNG" width="300" height="150"></li>
 </p>
